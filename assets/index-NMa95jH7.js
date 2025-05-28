@@ -9415,7 +9415,7 @@ function Id() {
                             }), p.jsxs("div", {
                                 className: "flex items-center gap-2",
                                 children: [p.jsx("a", {
-                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     className: "w-24 h-24 p-[3px]",
@@ -9430,7 +9430,7 @@ function Id() {
                                         alt: "dextools"
                                     })
                                 }), p.jsx("a", {
-                                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                                    href: "https://dexscreener.com/ethereum/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     className: "w-24 h-24 p-[3px]",
@@ -9485,7 +9485,7 @@ function Id() {
                     transY: "-10%",
                     onClick: o
                 }), p.jsx("a", {
-                    href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                    href: "https://dexscreener.com/ethereum/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                     target: "_blank",
                     rel: "noreferrer",
                     children: p.jsx(Oe, {
@@ -9502,7 +9502,7 @@ function Id() {
                         }
                     })
                 }), p.jsx("a", {
-                    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                     target: "_blank",
                     rel: "noreferrer",
                     children: p.jsx(Oe, {
@@ -9518,7 +9518,7 @@ function Id() {
                         }
                     })
                 }), p.jsx("a", {
-                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                     target: "_blank",
                     rel: "noreferrer",
                     children: p.jsx(Oe, {
@@ -9817,7 +9817,7 @@ function Md() {
                             alt: "telegram"
                         })
                     }), p.jsx("a", {
-                        href: "https://www.dextools.io/app/en/tron/pair-explorer/0xcomingsoon",
+                        href: "https://www.dextools.io/app/en/tron/pair-explorer/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                         target: "_blank",
                         rel: "noreferrer",
                         className: "w-10 h-10 p-[3px]",
@@ -9832,7 +9832,7 @@ function Md() {
                             alt: "dextools"
                         })
                     }), p.jsx("a", {
-                        href: "https://dexscreener.com/tron/0xcomingsoon",
+                        href: "https://dexscreener.com/tron/0xf8129b1cde8d5489b66535748625caaf3f9a697f",
                         target: "_blank",
                         rel: "noreferrer",
                         className: "w-10 h-10 p-[3px]",
