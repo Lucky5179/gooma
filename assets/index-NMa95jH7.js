@@ -9501,7 +9501,23 @@ function Id() {
                             animation: "1.6s linear 0s shake infinite"
                         }
                     })
-                }),p.jsx("a", {
+                }), p.jsx("a", {
+                    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                    target: "_blank",
+                    rel: "noreferrer",
+                    children: p.jsx(Oe, {
+                        mainImg: "/images/home/uniswap_1.png",
+                        hoverImg: "/images/home/uniswap_2.png",
+                        left: 513,
+                        top: 376,
+                        width: 172,
+                        height: 133,
+                        style: {
+                            "--y-pos": "-10px",
+                            animation: "0.6s linear 0s bounceVertical infinite"
+                        }
+                    })
+                }), p.jsx("a", {
                     href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                     target: "_blank",
                     rel: "noreferrer",
@@ -9599,16 +9615,16 @@ function Id() {
                     }), p.jsxs("div", {
                         className: "text-[#770000] text-[50px] italic min-w-max leading-[1.8] drop-shadow-[1px_1px_0px_#770000] uppercase",
                         children: [p.jsx("p", {
-                            children: "100% locked 30day cliff"
+                            children: "Symbol ; GOOMA"
                         }), p.jsx("p", {
                             className: "-ml-[17px]",
-                            children: "1% weekly linear distribution for"
+                            children: "Contract Renounced"
                         }), p.jsx("p", {
                             className: "-ml-[34px]",
-                            children: "the marketing, listing, community"
+                            children: "100% LP burned"
                         }), p.jsx("p", {
                             className: "-ml-[51px]",
-                            children: "and burn allocations"
+                            children: "Total Supply : 1,000,000,000"
                         })]
                     })]
                 }), p.jsx("div", {
